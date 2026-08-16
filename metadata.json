@@ -1,0 +1,6 @@
+{
+  "name": "FleetGo - Gestão de Frotas de Táxis e Motas",
+  "description": "Sistema completo e profissional de gestão de frotas de carros táxis e moto-taxis com telemetria em tempo real, integração golang-auth-api, alertas e relatórios.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
